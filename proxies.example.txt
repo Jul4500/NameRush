@@ -1,0 +1,6 @@
+# Copie ce fichier en proxies.txt et ajoute tes proxies (un par ligne)
+# Formats supportés :
+#   http://host:port
+#   http://user:pass@host:port
+#   socks5://host:port
+#   socks5://user:pass@host:port

@@ -1,0 +1,4 @@
+# Copie ce fichier en tokens.txt et ajoute tes tokens Discord (un par ligne)
+# Token utilisateur brut — pas de prefix "Bot "
+# Exemple :
+# MTA4NjY3NzU0NTY0MDExMTY4.XXXXXX.ton_token_ici
