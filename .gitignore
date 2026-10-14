@@ -1,0 +1,16 @@
+# Secrets — ne jamais commit
+tokens.txt
+proxies.txt
+sniped.txt
+
+# Runtime
+state.json
+log.txt
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Config locale (contient le webhook URL)
+# → copie config.example.json en config.json et remplis localement
+config.json
